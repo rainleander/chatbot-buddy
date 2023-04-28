@@ -23,4 +23,5 @@ With Chatbot Buddy, we aim to simplify the lives of open source maintainers whil
 - [GitHub Codspaces](https://github.com/features/codespaces)
 - [GitHub Codescpaces Documentation](https://docs.github.com/en/codespaces)
 - [Botpress Repository](https://github.com/botpress/botpress)
+- [Botpress v12 Documentation](https://v12.botpress.com/)
 - [OpenAI API Python Documentation](https://platform.openai.com/docs/api-reference?lang=python)
